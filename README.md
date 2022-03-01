@@ -1,7 +1,7 @@
 <p align="center">
   <a href="http://inka.finance/" target="blank"><img src="./2.svg" width="200" alt="Inka Logo" /></a>
 </p>
-<p align="center">The most friendly DeFi wallet and aggregator.</p>
+<p align="center">The most friendly DeFi wallet and multichain platform.</p>
 
 ## Table of contents
 
